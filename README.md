@@ -12,17 +12,17 @@ This program allows you to generate an image with any amount of lines from a giv
 
 
 ## Examples
-#### Rule 110
+### Rule 110
 Here is an example of the kind of results you can expect using Rule 110.
-#### Rule 57
+### Rule 57
 Here's a pyramid created using a starting line containing a single black pixel and Rule 57.
 ![image info](https://cdn.discordapp.com/attachments/719555155632324690/1044032073675063296/image.png)
 
-#### Rule 90
+### Rule 90
 Using a starting line containing a single black pixel and Rule 90 creates a figure that looks like a Sierpiński triangle.
 ![image info](https://cdn.discordapp.com/attachments/719555155632324690/1044022789193093302/image.png)
 
-#### More ?
+### More ?
 There are many more possible rules (like 30 or 184 which are already in the code but not shown above) and you are more than welcome to use other ones or even create your own.
 
 
@@ -30,10 +30,10 @@ There are many more possible rules (like 30 or 184 which are already in the code
 All you have to do is download the code and comment or uncomment the needed lines to choose a rule and maybe change the start line.
 The code has comments to guide you in modifying those lines
 
-#### Dependencies
+### Dependencies
 You need to have mathplotlib installed in order for the code to work.
 
-#### Important
+### Important
 
 My lists have the numbers "reversed" compare to what you may see one Wikipedia. That is because of the way I structured my code at the moment.
 That being said, using rule 110 for instance, this is what it would look like :
