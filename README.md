@@ -8,12 +8,16 @@
 This program allows you to generate an image with any amount of lines from a given line and rule. This process is called a cellular automaton and uses the current state of cells to deduce the following ones.
 
 [Rule 110](https://en.wikipedia.org/wiki/Rule_110) for example is a well known cellular automaton which works using the following principle :
-![](https://upload.wikimedia.org/wikipedia/commons/b/b5/One-d-cellular-automaton-rule-110.gif)
-
+|![](https://upload.wikimedia.org/wikipedia/commons/b/b5/One-d-cellular-automaton-rule-110.gif)|
+|:--:|
+|An animation of the way the rules of a 1D cellular automaton determine the next generation, using Rule 110.
+Credits : Cormullion (Wikipedia)|
 
 ## Examples
 ### Rule 110
 Here is an example of the kind of results you can expect using Rule 110.
+![Image info](https://media.discordapp.net/attachments/719555155632324690/1042890938592284683/image.png)
+
 ### Rule 57
 Here's a pyramid created using a starting line containing a single black pixel and Rule 57.
 ![image info](https://cdn.discordapp.com/attachments/719555155632324690/1044032073675063296/image.png)
