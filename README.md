@@ -8,7 +8,7 @@
 This program allows you to generate an image with any amount of lines from a given line and rule. This process is called a cellular automaton and uses the current state of cells to deduce the following ones.
 
 [Rule 110](https://en.wikipedia.org/wiki/Rule_110) for example is a well known cellular automaton which works using the following principle :
-![Alt text](https://en.wikipedia.org/wiki/Rule_110#/media/File:One-d-cellular-automaton-rule-110.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/One-d-cellular-automaton-rule-110.gif)
 
 
 ## Examples
