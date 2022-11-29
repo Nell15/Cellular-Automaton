@@ -1,4 +1,4 @@
-# Cellular-Automaton
+# Cellular Automaton
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -35,7 +35,7 @@ All you have to do is download the code and comment or uncomment the needed line
 The code has comments to guide you in modifying those lines
 
 ### Dependencies
-You need to have mathplotlib installed in order for the code to work.
+You need to have matplotlib installed in order for the code to work.
 
 ### Important
 
