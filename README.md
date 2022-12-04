@@ -13,7 +13,7 @@ This program allows you to generate an image with any amount of lines from a giv
 |An animation of the way the rules of a 1D cellular automaton determine the next generation, using Rule 110.
 Credits : Cormullion (Wikipedia)|
 
-## Examples
+## Static images examples
 ### Rule 110
 Here is an example of the kind of results you can expect using Rule 110.
 ![Image info](https://media.discordapp.net/attachments/719555155632324690/1042890938592284683/image.png)
@@ -29,13 +29,19 @@ Using a starting line containing a single black pixel and Rule 90 creates a figu
 ### More ?
 There are many more possible rules (like 30 or 184 which are already in the code but not shown above) and you are more than welcome to use other ones or even create your own.
 
+## Animated generation
+Here's a visualization of the previous example (see rule 90) being built, layer by layer.
+
+![](https://cdn.discordapp.com/attachments/719555155632324690/1047252310394413226/animation.gif)
 
 ## Install
 All you have to do is download the code and comment or uncomment the needed lines to choose a rule and maybe change the start line.
-The code has comments to guide you in modifying those lines
+The code has comments to guide you in modifying those lines.
 
 ### Dependencies
 You need to have matplotlib installed in order for the code to work.
+#### Animation
+In order for the animation script to work, make sure that both scripts are located in the same folder.
 
 ### Important
 
