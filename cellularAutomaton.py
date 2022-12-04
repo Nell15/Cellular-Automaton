@@ -94,5 +94,6 @@ image = cellularAutomaton(rule90, l, n)
 
 ###----- Result display -----
 
-plt.imshow(image, cmap = 'gray', clim = (0, 1))
-plt.show()
+if __name__ == "__main__":
+    plt.imshow(image, cmap = 'gray', clim = (0, 1))
+    plt.show()
