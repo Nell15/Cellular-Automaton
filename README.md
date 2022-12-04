@@ -16,23 +16,30 @@ Credits : Cormullion (Wikipedia)|
 ## Static images examples
 ### Rule 110
 Here is an example of the kind of results you can expect using Rule 110.
-![Image info](https://media.discordapp.net/attachments/719555155632324690/1042890938592284683/image.png)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/719555155632324690/1042890938592284683/image.png"/>
+</p>
 
 ### Rule 57
 Here's a pyramid created using a starting line containing a single black pixel and Rule 57.
-![image info](https://cdn.discordapp.com/attachments/719555155632324690/1044032073675063296/image.png)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/719555155632324690/1044032073675063296/image.png"/>
+</p>
 
 ### Rule 90
 Using a starting line containing a single black pixel and Rule 90 creates a figure that looks like a Sierpiński triangle.
-![image info](https://cdn.discordapp.com/attachments/719555155632324690/1044022789193093302/image.png)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/719555155632324690/1044022789193093302/image.png"/>
+</p>
 
 ### More ?
 There are many more possible rules (like 30 or 184 which are already in the code but not shown above) and you are more than welcome to use other ones or even create your own.
 
 ## Animated generation
 Here's a visualization of the previous example (see rule 90) being built, layer by layer.
-
-![](https://cdn.discordapp.com/attachments/719555155632324690/1047252310394413226/animation.gif)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/719555155632324690/1047252310394413226/animation.gif"/>
+</p>
 
 ## Install
 All you have to do is download the code and comment or uncomment the needed lines to choose a rule and maybe change the start line.
