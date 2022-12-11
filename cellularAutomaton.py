@@ -77,7 +77,9 @@ rule184 = [0, 1, 0, 0, 0, 1, 1, 1]
 
 # This will be our start line, you may modify it for different results.
 # Here I'll be using the example shown the Rule 110 Wikipedia page
+# To create a starting line; create a list like the following :
 l = [0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0]
+# A 0 stands for a black square and a 1 for a white one
 
 # Here's an example that is more relevant for rules 30, 57 and 90
 # l = [1] * 50 + [0] + [1] * 50
